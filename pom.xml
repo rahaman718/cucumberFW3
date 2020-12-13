@@ -24,7 +24,7 @@
       <artifactId>testng</artifactId>
       <version>7.3.0</version>
       <scope>test</scope>
-    </dependency>
+    </dependency>git
   </dependencies>
 
   <build>
